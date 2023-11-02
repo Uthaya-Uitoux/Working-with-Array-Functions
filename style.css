@@ -1,0 +1,30 @@
+.container,.input_number{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.contains{
+    width:360px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 2px;
+    background: rgb(246, 118, 139);
+}
+.input_number{
+    width:300px;
+    height: 30px;
+    text-align: center;
+    border:2px dotted;
+    border-color: rgb(166, 137, 101, 89);
+    border-color: rgb(77, 43, 2);
+    margin:15px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    height:25px;
+    border:2px solid;
+    border-radius: 4px;
+    width:130px;
+    margin: 15px;
+}
